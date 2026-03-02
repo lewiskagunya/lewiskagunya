@@ -1,32 +1,47 @@
+# 🛡️ [Lewis Mwangi] | Junior SOC Analyst & C Security Engineer 🇰🇪
 
-- ⚡ Fun fact: ...
---># Hi, I'm lewis kagunya👋
+> "Understanding the network from the packet up." 
 
-### 🛡️ Aspiring Pentester & SOC Analyst
-I bridge the gap between low-level system exploitation and high-level network defense. My journey is rooted in understanding the "why" behind the code, inspired by the technical rigor of Jon Erickson’s *Hacking: The Art of Exploitation*.
+I am a Security Researcher and C Developer focused on **Layer 2 Defense** and **Behavioral IDS**. I don't just use security tools; I build them to understand the underlying math and logic of network protocols.
 
 ---
 
-### 🎓 Certifications & Education
-* **Cisco Certified Support Technician (CCST) Cybersecurity** * **Cisco Certified Support Technician (CCST) Networking** * **Self-Directed Research:** Intensive study of Binary Exploitation, Memory Management, and Network Protocols via *The Art of Exploitation*.
+### 🚀 Featured Security Projects
+
+#### 📡 [Beacon-Detector (C/Raw Sockets)](https://github.com/lewiskagunya/beacon_detector.c)
+A custom-built Intrusion Detection engine that identifies **Command & Control (C2)** heartbeats.
+* **The Logic:** Uses temporal analysis to calculate microsecond variance ($\Delta T$) between packets.
+* **The Tech:** C, Linux Raw Sockets (`AF_PACKET`), `struct timeval` precision.
+* **Result:** Successfully flags automated heartbeats with a jitter-tolerance state machine.
+
+#### 🔍 [Layer 2 Packet Sniffer](https://github.com/lewiskagunya/Network-sniffer.c)
+A low-level protocol analyzer inspired by *Jon Erickson's "Hacking: The Art of Exploitation"*.
+* **Capability:** Real-time decoding of Ethernet, IP, and TCP headers directly from the wire.
+* **Methodology:** Manual pointer arithmetic and header casting for maximum performance.
+
+#### 🛣️ [Cisco Network Configuration Labs
+A repository of production-ready Cisco IOS configurations.
+* **Focus:** VLAN Segmentation, Subnetting, Inter-VLAN Routing, and Port Security.
+* **Status:** Core Networking Module Completed (March 2026).
 
 ---
 
 ### 🛠️ Technical Arsenal
-* **Languages:** C, Assembly (x86), Bash Scripting, Python.
-* **Offensive:** Buffer Overflows, Format String Vulnerabilities, Socket Programming, GDB Debugging.
-* **Defensive/Networking:** Packet Analysis (Wireshark), Network Configuration, Threat Detection, Firewalls.
-* **OS:** Kali Linux, Ubuntu, Windows Server.
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Languages** | **C (Advanced)**, Bash Scripting |
+| **Blue Teaming** | **Wazuh (SIEM)**, Splunk, Log Analysis, Threat Management |
+| **Networking** | TCP/IP, ICMP, ARP, Cisco IOS, Packet Dissection |
+| **Tools** | Wireshark, GDB, GCC, Valgrind, Nmap |
 
 ---
 
-### 📁 Featured Projects (From Erickson's Labs & Beyond)
-* **Socket-Based Backdoors:** Built custom listener/connector tools in C to understand raw network communication.
-* **Exploit Development:** Documented walkthroughs of stack-based buffer overflows and privilege escalation.
-* **Network Mapping:** Scripts for automated reconnaissance and vulnerability scanning.
+### 📊 Professional Progress
+- 🎓 **Currently:** Transitioning from Cisco Networking to **Cisco CyberOps Associate**.
+- 🏆 **TryHackMe:** Active learner in SOC Level 1 and Threat Hunting paths.
+- ⚡ **Philosophy:** "If you can't code the defense, you don't truly understand the attack."
 
 ---
 
-### 📫 Let's Connect!
-* **Goal:** Currently looking for Junior SOC Analyst or Junior Pentester opportunities.
-* **Learning:** Currently diving deeper into [Next Goal, e.g., OSCP or HTB Labs].
+### 📫 Connect with Me
+[LinkedIn]()https://www.linkedin.com/in/lewis-kagunya-521a033b1/ | [TryHackMe](tryhackme.com/p/lewiskagunya093) 
