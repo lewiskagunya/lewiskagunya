@@ -1,4 +1,4 @@
-# 🛡️ [Lewis Mwangi] | Junior SOC Analyst & C Security Engineer 🇰🇪
+# 🛡️ Lewis Mwangi | Junior SOC Analyst & C Security Engineer 🇰🇪
 
 > "Understanding the network from the packet up." 
 
@@ -41,4 +41,5 @@ A repository of production-ready Cisco IOS configurations.
 ---
 
 ### 📫 Connect with Me
-[LinkedIn]()https://www.linkedin.com/in/lewis-kagunya-521a033b1/ | [TryHackMe](tryhackme.com/p/lewiskagunya093) 
+[LinkedIn]()https://www.linkedin.com/in/lewis-kagunya-521a033b1/ 
+[TryHackMe](tryhackme.com/p/lewiskagunya093) 
