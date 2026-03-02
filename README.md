@@ -5,7 +5,6 @@
 I am a Security Researcher and C Developer focused on **Layer 2 Defense** and **Behavioral IDS**. I don't just use security tools; I build them to understand the underlying math and logic of network protocols.
 
 ---
-
 ### 🚀 Featured Security Projects
 
 #### 📡 [Beacon-Detector (C/Raw Sockets)](https://github.com/lewiskagunya/beacon_detector.c)
@@ -35,12 +34,10 @@ A repository of production-ready Cisco IOS configurations.
 | **Tools** | Wireshark, GDB, GCC, Valgrind, Nmap |
 
 ---
-
 ### 📊 Professional Progress
 - 🎓 **Currently:** Transitioning from Cisco Networking to **Cisco CyberOps Associate**.
 - 🏆 **TryHackMe:** Active learner in SOC Level 1 and Threat Hunting paths.
 - ⚡ **Philosophy:** "If you can't code the defense, you don't truly understand the attack."
-
 ---
 
 ### 📫 Connect with Me
