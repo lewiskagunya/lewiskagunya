@@ -1,37 +1,46 @@
-# 🛡️ Lewis Mwangi | Junior SOC Analyst & C Security Engineer 🇰🇪
+# Hi there, I'm Lewis Kagunya 👋
 
-> "Understanding the network from the packet up." 
+Software Developer with a focus on high-performance systems programming, machine learning, advanced database optimization, low-level reverse engineering, and defensive/offensive cybersecurity.
 
-I am a Security Researcher and C Developer focused on **Layer 2 Defense** and **Behavioral IDS**. I don't just use security tools; I build them to understand the underlying math and logic of network protocols.
 ---
-### 🚀 Featured Security Projects
-#### 📡 [Beacon-Detector (C/Raw Sockets)](https://github.com/lewiskagunya/beacon_detector.c)
-A custom-built Intrusion Detection engine that identifies **Command & Control (C2)** heartbeats.
-* **The Logic:** Uses temporal analysis to calculate microsecond variance ($\Delta T$) between packets.
-* **The Tech:** C, Linux Raw Sockets (`AF_PACKET`), `struct timeval` precision.
-* **Result:** Successfully flags automated heartbeats with a jitter-tolerance state machine.
-#### 🔍 [Layer 2 Packet Sniffer](https://github.com/lewiskagunya/Network-sniffer.c)
-A low-level protocol analyzer inspired by *Jon Erickson's "Hacking: The Art of Exploitation"*.
-* **Capability:** Real-time decoding of Ethernet, IP, and TCP headers directly from the wire.
-* **Methodology:** Manual pointer arithmetic and header casting for maximum performance.
-#### 🛣️ [Cisco Network Configuration Labs
-A repository of production-ready Cisco IOS configurations.
-* **Focus:** VLAN Segmentation, Subnetting, Inter-VLAN Routing, and Port Security.
-* **Status:** Core Networking Module Completed (March 2026).
----
-### 🛠️ Technical Arsenal
-| Category | Skills & Tools |
+
+## 🛠️ Technical Skills
+
+| Domain | Skills & Technologies |
 | :--- | :--- |
-| **Languages** | **C (Advanced)**, Bash Scripting |
-| **Blue Teaming** | **Wazuh (SIEM)**, Splunk, Log Analysis, Threat Management |
-| **Networking** | TCP/IP, ICMP, ARP, Cisco IOS, Packet Dissection |
-| **Tools** | Wireshark, GDB, GCC, Valgrind, Nmap |
+| **Core Systems Programming** | C++ (Advanced), x86-64 Assembly (Architecture & Analysis), C (Foundational) |
+| **Machine Learning & AI** | Machine Learning Fundamentals, Statistical Modeling, Algorithm Optimization |
+| **Languages & Web** | Python, JavaScript, HTML5, CSS3 |
+| **Databases & Data Analytics** | Advanced SQL, Query Optimization, Schema Design, Data Modeling |
+| **Cybersecurity & Security Operations** | Threat Analysis, Vulnerability Assessment, Endpoint Security, Ethical Hacking |
+| **Networking & Infrastructure** | Network Architecture, Packet Analysis, Network Defense, Protocols (TCP/IP, OSI) |
+
 ---
-### 📊 Professional Progress
-- 🎓 **Currently:** Transitioning from Cisco Networking to **Cisco CyberOps Associate**.
-- 🏆 **TryHackMe:** Active learner in SOC Level 1 and Threat Hunting paths.
-- ⚡ **Philosophy:** "If you can't code the defense, you don't truly understand the attack."
+
+## 📜 Certifications & Practical Training
+
+| Certification / Course | Issuer | Date |
+| :--- | :--- | :--- |
+| **C++ Advanced**[cite: 2] | Cisco Networking Academy | May 2026[cite: 2] |
+| **Architecture 1001: x86-64 Assembly**[cite: 11] | OpenSecurityTraining2 (OST2) | April 2026[cite: 11] |
+| **Shields Up: Cybersecurity Job Simulation**[cite: 1] | AIG / Forage | April 2026[cite: 1] |
+| **Cybersecurity Job Simulation**[cite: 8] | Mastercard / Forage | April 2026[cite: 8] |
+| **Cyber Threat Management**[cite: 3] | Cisco Networking Academy | March 2026[cite: 3] |
+| **Junior Cybersecurity Analyst Career Path Exam**[cite: 7] | Cisco Networking Academy | March 2026[cite: 7] |
+| **Network Defense**[cite: 9] | Cisco Networking Academy | March 2026[cite: 9] |
+| **Endpoint Security**[cite: 4] | Cisco Networking Academy | March 2026[cite: 4] |
+| **Networking Basics**[cite: 10] | Cisco Networking Academy | February 2026[cite: 10] |
+| **Ethical Hacker**[cite: 5] | Cisco Networking Academy | February 2026[cite: 5] |
+| **Introduction to Cybersecurity**[cite: 6] | Cisco Networking Academy | January 2026[cite: 6] |
+
 ---
-### 📫 Connect with Me
-[LinkedIn]()https://www.linkedin.com/in/lewis-kagunya-521a033b1
-[TryHackMe](tryhackme.com/p/lewiskagunya093) 
+
+## 🔒 Practical Security Experience
+
+* **OpenSecurityTraining2:** Completed 28.5 hours of practical training in x86-64 assembly architecture and system-level operations[cite: 11].
+* **AIG Shields Up Simulation:** Hands-on experience responding to zero-day vulnerabilities and technical ransomware bypass analysis[cite: 1].
+* **Mastercard Security Simulation:** Designed phishing email simulations and analyzed user threat metrics[cite: 8].
+
+---
+
+📫 **Connect with me:**| [Email](mailto:lewiskagunya093@gmail.com)
